@@ -1,6 +1,5 @@
-6 - Mapty App
+3 - Mapty App
 
-Project done with HTML, CSS and Javascript, focus on Object Oriented Programming (OOP) and project Architecture.  
-I also used Geolocation API, Leaflet library and Local Storage.
+JavaScript project.
 
-https://6-maptyapp.netlify.app/
+https://3-maptyapp.netlify.app/
